@@ -1,3 +1,4 @@
-# CS112-OOP
-L means Lab Task
-a means Assignment
+
+L means Lab Task. 
+a means Assignment. 
+And T means number of task
