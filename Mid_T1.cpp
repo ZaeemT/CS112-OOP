@@ -2,6 +2,8 @@
 //  2020376
 //  Mid, Task # 1
 
+// Few errors in this code.
+
 #include<iostream>
 using namespace std;
 
